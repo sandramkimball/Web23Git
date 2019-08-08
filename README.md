@@ -5,4 +5,4 @@ this is a test repo for web23
 
 ###Another test title! Whoo!
 
-한국어로도 일수 있당? ㅋㅋㅋ ㅇㅈㅇ 곰이야!
+한국어로도 읽수 있당? ㅋㅋㅋ ㅇㅈㅇ 곰이야!
